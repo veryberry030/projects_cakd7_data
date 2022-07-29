@@ -1,0 +1,1250 @@
+***** for page : 1
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=1
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 "확진자 접촉 무증상자도 신속항원 검사 무료화"
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=02942166632399440
+********** title : UnicodeEncodeError
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=886552
+********** title : UnicodeEncodeError
+********** href : http://www.sisaon.co.kr/news/articleView.html?idxno=141294
+********** title : 강기윤 '코로나 재유행대비 의료체계 점검 긴급 간담회' 연다
+********** href : http://daily.hankooki.com/news/articleView.html?idxno=847302
+********** title : 강기윤"코로나 재유행대비 의료체계 점검 위한 긴급 간담회"개최
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2508020
+********** title : 강기윤 의원, “코로나 재유행 대비 긴급 간담회"
+********** href : http://www.breaknews.com/908710
+********** title : 강기윤 의원, 공공IT사업에 상용SW 의무화 법안 발의
+********** href : http://www.etnews.com/20220706000130
+********** title : “창원 신성장동력 키울 수 있게 내년 국비 확보 힘 모으자”
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1381210
+********** title : 강기윤 의원 발언 듣는 권성동 원내대표
+********** href : https://www.yna.co.kr/view/PYH20220705027600013?input=1196m
+********** title : "창원시 국비 확보 극대화 원팀 전략 신선"
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=499983
+***** row : 10
+***** for page : 2
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=11
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 안철수, 토론회서 '과학방역' 강조…"방역전문가가 정책 결정권 가져야"
+********** href : http://www.newsis.com/view/?id=NISX20220726_0001956333&cID=10301&pID=10300
+********** title : 다가오는 코로나 재유행…여당·정부, 대응 체계 논의
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=145386
+********** title : 안철수 "尹, 방역 사령관에 전문가 지명해야…이것이 과학방역"
+********** href : https://www.news1.kr/articles/?4753683
+********** title : 국회서 만난 여당·백경란 청장…백신 다각화·백신 피해보상 등 공감대
+********** href : http://www.medigatenews.com/news/2670700582
+********** title : 국힘 상임위 간사에 윤한홍·정점식·강기윤 의원
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1378462
+********** title : 여당 강기윤 전국민 백신예산 반영 이끌어…야당 김정호 홈네트워크 해킹 방지책 호평
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220622.22004005595
+********** title : 복지위 간사에 강기윤 재선임…“민주당과 협치할 것”
+********** href : http://www.kukinews.com/newsView/kuk202206090074
+********** title : 후반기 국회 활동 초읽기…간호법·비대면 진료 논의 시작되나
+********** href : http://it.chosun.com/site/data/html_dir/2022/07/26/2022072601649.html
+********** title : PK의원 국토위에 최다 6명…위원장은 1명 늘어 총 5명
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220725.22004006884
+********** title : 강기윤, 창원시 용남 용호초 '어린이보행 개선' 등 '특교 8억' 결정
+********** href : http://www.newscj.com/news/articleView.html?idxno=977722
+***** row : 10
+***** for page : 3
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=21
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 “어린이보행 환경개선 등 특교 8억 결정”
+********** href : http://www.newsgn.com/327678
+********** title : 강기윤， 간호법안 처리 강력 반발
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=494952
+********** title : 강기윤 의원,“ 환경구역개선 특교 8억 확보”
+********** href : http://www.breaknews.com/892995
+********** title : 강기윤 의원, “더 큰 역할 위해 공관위 결정 수용”
+********** href : http://www.breaknews.com/888886
+********** title : 약 자판기 "원점에서 다시 논의해야 한다"
+********** href : https://www.kpanews.co.kr/article/show.asp?idx=234355&category=C
+********** title : UnicodeEncodeError
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2435486
+********** title : 강기윤, 국힘 출정식서 "교육감 보수후보에게 박수를" 발언 도마
+********** href : https://www.yna.co.kr/view/AKR20220519137900052?input=1195m
+********** title : 강기윤 국민의힘 경남 지방선거 공동선대위원장의 응원
+********** href : https://www.news1.kr/photos/view/?5379986
+********** title : 강기윤 의원 "간호법 날치기 통과는 다수당 횡포...국민들에게 사과하라"
+********** href : http://www.medigatenews.com/news/1315559535
+********** title : "김상규 예비후보와 원 팀" 강기윤 국회의원， 후보와 만나
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=493941
+***** row : 10
+***** for page : 4
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=31
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원, 대통령직 인수위원회 합류
+********** href : https://www.straightnews.co.kr/news/articleView.html?idxno=206657
+********** title : 이준석에 읍소하는 강기윤
+********** href : http://www.idomin.com/news/articleView.html?idxno=791641
+********** title : UnicodeEncodeError
+********** href : http://www.sisunnews.co.kr/news/articleView.html?idxno=160179
+********** title : UnicodeEncodeError
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2429738
+********** title : 강기윤 "인수위 코로나비상대응특위 방역현장 의견청취해"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2438304
+********** title : 강기윤 공천 재심 결과에 여영국 행보 달려
+********** href : http://www.idomin.com/news/articleView.html?idxno=791365
+********** title : 강기윤 의원,“인수위 코로나비상대응 특위 4차회의 마쳐 ”
+********** href : http://www.breaknews.com/882393
+********** title : 강기윤“K-방역 붕괴 속 다양한 치료제 준비 미흡”질타
+********** href : http://www.breaknews.com/880212
+********** title : 강기윤 의원 "부동산 의혹제기 대부분 무혐의"
+********** href : http://www.gndomin.com/news/articleView.html?idxno=308030
+********** title : 강기윤 의원 '토지보상법 위반' 검찰 송치
+********** href : http://www.newsfreezone.co.kr/news/articleView.html?idxno=367061
+***** row : 10
+***** for page : 5
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=41
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 경찰, 국힘 강기윤 의원 '토지보상법 위반 혐의' 검찰 송치
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002816333&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : [부고] 강기윤(국회의원)씨 장모상
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497592
+********** title : [부고]강기윤 국회의원, 장모상
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2441004
+********** title : 강기윤 의원 "코로나 하루 60만명 확진...K-방역 붕괴"
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=143740
+********** title : 강기윤 의원 "인수위 코로나비상대응특위 6차회의 마쳐"
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497390
+********** title : 강기윤 의원 재산 1년 새 20억 늘어
+********** href : http://www.idomin.com/news/articleView.html?idxno=789857
+********** title : 강기윤 의원, “경찰 수사결과 대부분 무혐의”
+********** href : http://www.breaknews.com/877283
+********** title : 강기윤 의원, 인수위 ‘코로나비상대응 특위’ 3차회의 참석…“백신 부작용, 치료제 확보방안 논의”
+********** href : https://www.asiatoday.co.kr/view.php?key=20220325000656583
+********** title : 강기윤, ‘코로나비상대응TF’ 3차 회의 참석…“치료제 확보 집중”
+********** href : http://www.kukinews.com/newsView/kuk202203240232
+********** title : 정의당 경남도당, 강기윤 의원 보강 수사 촉구
+********** href : http://www.idomin.com/news/articleView.html?idxno=788050
+***** row : 10
+***** for page : 6
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=51
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [부고] 강기윤(국회의원)씨 장모상 외
+********** href : https://hankookilbo.com/News/Read/A2022040515310002916?did=NA
+********** title : [부음] 김연석씨 별세·강기윤씨(국회의원) 빙모상 外
+********** href : http://www.fnnews.com/news/202204051821121294
+********** title : 강기윤 국회의원, 과다지급 과수원 보상금 반납
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373701
+********** title : [부음] 이승헌, 강기윤 장모
+********** href : https://www.businesspost.co.kr/BP?command=article_view&num=276726
+********** title : 강기윤 의원과 인사하는 안철수 위원장
+********** href : http://www.newsis.com/view/?id=NISI20220331_0018654074
+********** title : 강기윤 의원 “인수위 코로나비상대응 특위 4차회의 마쳐”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065585183007244
+********** title : 강기윤 의원, 의료·보건단체 지지선언 주도
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=494435
+********** title : 강기윤 의원 “한약관련업종사자 1001명 윤석열 후보지지 선언”
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065603559518625
+********** title : 강기윤 의원 "한약사·한약관련 종사자 1001명 윤석열 후보지지 선언"
+********** href : https://www.kpanews.co.kr/article/show.asp?idx=230220&category=C
+********** title : UnicodeEncodeError
+********** href : http://www.nbntv.co.kr/news/articleView.html?idxno=956181
+***** row : 10
+***** for page : 7
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=61
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원, 인수위 '코로나 비상대응특위' 위원 선임
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=496499
+********** title : 강기윤 “K-방역 붕괴, 소트로비맙·몰누피라비르 등 치료제 준비 시급”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065613138026861
+********** title : 강기윤 토지보상법 위반 혐의 수사 철저히
+********** href : http://www.idomin.com/news/articleView.html?idxno=787958
+********** title : 강기윤“무리한 의혹제기, 경찰 수사결과 대부분 무혐의로” 지적
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065581348839172
+********** title : 과다 지급 강기윤 땅 보상금 환수 하세월
+********** href : http://www.idomin.com/news/articleView.html?idxno=787812
+********** title : 강기윤 의원 “충청도 의사 50명, 尹 후보지지”
+********** href : http://www.dailymedi.com/detail.php?number=880947&thread=22r01
+********** title : 강기윤 의원, 21대 국회 후반기 보건복지위원회 간사 재선임
+********** href : http://www.breaknews.com/900668
+********** title : 강기윤 의원, ‘착한 임대인’ 정호영 보건복지부 장관 미담 밝혀
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065613736319534
+********** title : 강기윤 의원 “정호영 후보자, 착한 임대인 미담”
+********** href : https://www.asiatoday.co.kr/view.php?key=20220506001732372
+********** title : 강기윤, 21대 국회 후반기 보건복지위원회 간사로 재선임
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065589751018454
+***** row : 10
+***** for page : 8
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=71
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤, 21대 국회 후반기 보건복지위원회 간사로 재선임
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065589751018454
+********** title : 강기윤 의원 "의협·간호조무사협 궐기대회 민주당 책임...간호협회만을 위한 간호법은 안돼"
+********** href : http://www.medigatenews.com/news/1282051967
+********** title : 강기윤 의원 "창원시장, 공관위 결정 존중"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2452276
+********** title : 강기윤 의원 "창원시장에 출마 않기로"
+********** href : http://www.newscj.com/news/articleView.html?idxno=971920
+********** title : 강기윤, 안철수 인수위원장에 '창원발전 제안서' 전달
+********** href : http://www.newscj.com/news/articleView.html?idxno=968502
+********** title : 강기윤, 尹당선인과 적극 소통으로… "행복한 창원시 만들겠다"
+********** href : http://www.newscj.com/news/articleView.html?idxno=968375
+********** title : 강기윤 의원 "창원, 산업위기대응특별지역 지정 최선"
+********** href : http://www.newsis.com/view/?id=NISX20220409_0001826839&cID=10812&pID=10800
+********** title : 강기윤 국회의원 "창원성산 지역구 특별교부세 8억원 확보"
+********** href : http://www.newsis.com/view/?id=NISX20220504_0001860223&cID=10812&pID=10800
+********** title : 강기윤 “정호영 의혹 대부분 해소...코로나19 종식 적임자”
+********** href : http://www.kukinews.com/newsView/kuk202205040222
+********** title : 강기윤, 창원시장 출마, "새로운 창원의 100년 도약, 윤석열과 함께"
+********** href : https://www.straightnews.co.kr/news/articleView.html?idxno=207736
+***** row : 10
+***** for page : 9
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=81
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '창원시장 출마' 강기윤 "마산 바닷길 다시 열겠다"
+********** href : http://www.newskr.kr/news/articleView.html?idxno=76057
+********** title : 강기윤, 안철수 위원장에게 '창원특례시, 새로운 100년을 위한 제안서' 전달
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2445642
+********** title : 강기윤 의원, "불합리한 창원시,개발제한구역 전면해제 추진"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2444944
+********** title : 창원시장 도전장 낸 강기윤 국회의원,"불합리한 개발제한구역 전면해제 추진"
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497993
+********** title : 경남 국회의원 상임위 쏠림…현안 어쩌나
+********** href : http://www.idomin.com/news/articleView.html?idxno=800034
+********** title : 강기윤 국회의원, 김상규 창원시장 예비후보와 '원 팀' 지지 선언
+********** href : https://www.asiatoday.co.kr/view.php?key=20220422010013214
+********** title : 강기윤 의원, 창원시장 출사표…"새로운 창원, 100년 도약 시작"
+********** href : https://www.cnbnews.com/news/article.html?no=539958
+********** title : 강기윤 의원측, "김상규 예비후보 지지선언 한적 없다" 일축
+********** href : http://www.breaknews.com/889205
+********** title : 박완수·강기윤 출마에 빈자리 보선 부상
+********** href : http://www.idomin.com/news/articleView.html?idxno=790227
+********** title : 與, 코로나 확산에 긴급 간담회…"병상·치료제 확보"
+********** href : https://www.yna.co.kr/view/AKR20220714164500001?input=1195m
+***** row : 10
+***** for page : 10
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=91
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘성실함’ 1위 김민기, ‘윤핵관’ 윤한홍·장제원 ‘불성실’
+********** href : https://shindonga.donga.com/3/all/13/3524809/1
+********** title : 강기윤 의원 창원시장 공천 재심 결정 미뤄
+********** href : http://www.idomin.com/news/articleView.html?idxno=791624
+********** title : 강기윤 “민주당, 복지위 간호법 법안소위, 2시간 전 일정통보 갑질” 지적
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065604516891939
+********** title : 국힘 창원시장 4인경선, 강기윤 김재경은 컷오프
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220413.99099003610
+********** title : 창원시장 출마 선언한 강기윤, 마산 바닷길 다시 연다
+********** href : http://www.newscj.com/news/articleView.html?idxno=969119
+********** title : 강기윤 의원, “마산 바닷길 다시 열겠다”
+********** href : http://www.breaknews.com/886452
+********** title : 정호영 후보자 아들 MRI 관련 언쟁 벌이는 김성주-강기윤 간사
+********** href : http://www.newspim.com/news/view/20220503000822
+********** title : 논의하는 김성주-강기윤 의원
+********** href : http://www.newsis.com/view/?id=NISI20220503_0018763585
+********** title : 강기윤, '과다 보상금' 1억여 원 창원시에 환급
+********** href : https://www.nocutnews.co.kr/news/5735230
+********** title : 강기윤 의원, ‘허위 보상’ 1억 원 창원시에 반납
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5431807&ref=A
+***** row : 10
+***** for page : 11
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=101
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원 “인수위 코로나비상대응 특위 4차회의 마쳐”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065585183007244
+********** title : 강기윤 의원, '인수위 코로나비상대응 특위 4차회의 마쳐'
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497036
+********** title : 국회 복지위, 53일만에 구성… 약사법 등 해결할 현안 산적
+********** href : http://www.kukinews.com/newsView/kuk202207220168
+********** title : 강기윤 의원, 의료·보건단체 지지선언 주도
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=494435
+********** title : 강기윤 의원 “한약관련업종사자 1001명 윤석열 후보지지 선언”
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065603559518625
+********** title : 강기윤 의원 "한약사·한약관련 종사자 1001명 윤석열 후보지지 선언"
+********** href : https://www.kpanews.co.kr/article/show.asp?idx=230220&category=C
+********** title : UnicodeEncodeError
+********** href : http://www.nbntv.co.kr/news/articleView.html?idxno=956181
+********** title : 강기윤 의원, 인수위 '코로나 비상대응특위' 위원 선임
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=496499
+********** title : 강기윤, 인수위 코로나비상대응특별위 위원 선임
+********** href : http://www.idomin.com/news/articleView.html?idxno=789001
+********** title : 강기윤 “K-방역 붕괴, 소트로비맙·몰누피라비르 등 치료제 준비 시급”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065613138026861
+***** row : 10
+***** for page : 12
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=111
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원, 대통령인수위 ‘코로나비상대응특위’ 위원으로 합류
+********** href : http://www.mhj21.com/sub_read.html?uid=149150§ion=sc118
+********** title : 강기윤 “K-방역 붕괴, 소트로비맙·몰누피라비르 등 치료제 준비 시급”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065613138026861
+********** title : 강기윤 의원, '코로나비상대응특위' 대통령직 인수위 합류
+********** href : http://news.tf.co.kr/read/national/1925869.htm
+********** title : 강기윤 토지보상법 위반 혐의 수사 철저히
+********** href : http://www.idomin.com/news/articleView.html?idxno=787958
+********** title : 강기윤“무리한 의혹제기, 경찰 수사결과 대부분 무혐의로” 지적
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065581348839172
+********** title : 과다 지급 강기윤 땅 보상금 환수 하세월
+********** href : http://www.idomin.com/news/articleView.html?idxno=787812
+********** title : 강기윤， 경찰 기소 반격 `무리한 의혹 제기`
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=490972
+********** title : ‘토지 보상금 과다보상 혐의’ 국민의힘 강기윤 의원 검찰 송치
+********** href : https://www.donga.com/news/article/all/20220308/112216503/1
+********** title : '토지보상금 과다 지급' 혐의 국민의힘 강기윤 의원 검찰 송치
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1371482
+********** title : 강기윤 의원 “충청도 의사 50명, 尹 후보지지”
+********** href : http://www.dailymedi.com/detail.php?number=880947&thread=22r01
+***** row : 10
+***** for page : 13
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=121
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '토지보상금 과다 지급' 혐의 국민의힘 강기윤 의원 검찰 송치
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1371482
+********** title : 강기윤 의원 “충청도 의사 50명, 尹 후보지지”
+********** href : http://www.dailymedi.com/detail.php?number=880947&thread=22r01
+********** title : 국회의원 강기윤 “2030 청년 한의사 주축, 한의사 윤석열 후보 지지 선언”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065602140008320
+********** title : 후반기 복지위 구성 완료…위원장 정춘숙
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2177889
+********** title : 후반기 국회 복지위 국힘 강기윤 간사 재선임
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1147784&ref=naverpc
+********** title : 강기윤 의원, 21대 국회 후반기 보건복지위원회 간사 재선임
+********** href : http://www.breaknews.com/900668
+********** title : 강기윤 의원, ‘착한 임대인’ 정호영 보건복지부 장관 미담 밝혀
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065613736319534
+********** title : 강기윤 의원 “정호영 후보자, 착한 임대인 미담”
+********** href : https://www.asiatoday.co.kr/view.php?key=20220506001732372
+********** title : 강기윤, 21대 국회 후반기 보건복지위원회 간사로 재선임
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065589751018454
+********** title : 후반기 국회 본격 가동…의료계 쟁점법안 운명은?
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1148582&ref=naverpc
+***** row : 10
+***** for page : 14
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=131
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 21대 국회 후반기 복지위원장에 정춘숙 의원
+********** href : https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=49965
+********** title : 후반기 국회 복지위 국힘 강기윤 간사 재선임
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1147784&ref=naverpc
+********** title : 강기윤 의원, 21대 국회 후반기 보건복지위원회 간사 재선임
+********** href : http://www.breaknews.com/900668
+********** title : 강기윤 의원, ‘착한 임대인’ 정호영 보건복지부 장관 미담 밝혀
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065613736319534
+********** title : 강기윤 의원 “정호영 후보자, 착한 임대인 미담”
+********** href : https://www.asiatoday.co.kr/view.php?key=20220506001732372
+********** title : 강기윤, 21대 국회 후반기 보건복지위원회 간사로 재선임
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065589751018454
+********** title : 후반기 국회 본격 가동…의료계 쟁점법안 운명은?
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1148582&ref=naverpc
+********** title : 김상규-강기윤, 원팀, 지지선언 진위공방 가열
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2452675
+********** title : 강기윤 의원 "창원시장, 공관위 결정 존중"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2452276
+********** title : 강기윤 의원 "의협·간호조무사협 궐기대회 민주당 책임...간호협회만을 위한 간호법은 안돼"
+********** href : http://www.medigatenews.com/news/1282051967
+***** row : 10
+***** for page : 15
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=141
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 후반기 국회 본격 가동…의료계 쟁점법안 운명은?
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1148582&ref=naverpc
+********** title : 김상규-강기윤, 원팀, 지지선언 진위공방 가열
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2452675
+********** title : 강기윤 의원 "창원시장, 공관위 결정 존중"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2452276
+********** title : 국회 후반기 복지위 여당 간사에 강기윤 의원 재선임
+********** href : https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=49408
+********** title : 강기윤 의원 "의협·간호조무사협 궐기대회 민주당 책임...간호협회만을 위한 간호법은 안돼"
+********** href : http://www.medigatenews.com/news/1282051967
+********** title : 강기윤 의원 "창원시장에 출마 않기로"
+********** href : http://www.newscj.com/news/articleView.html?idxno=971920
+********** title : 강기윤, 안철수 인수위원장에 '창원발전 제안서' 전달
+********** href : http://www.newscj.com/news/articleView.html?idxno=968502
+********** title : 강기윤, 尹당선인과 적극 소통으로… "행복한 창원시 만들겠다"
+********** href : http://www.newscj.com/news/articleView.html?idxno=968375
+********** title : 강기윤 의원 "창원, 산업위기대응특별지역 지정 최선"
+********** href : http://www.newsis.com/view/?id=NISX20220409_0001826839&cID=10812&pID=10800
+********** title : 강기윤 국회의원 "창원성산 지역구 특별교부세 8억원 확보"
+********** href : http://www.newsis.com/view/?id=NISX20220504_0001860223&cID=10812&pID=10800
+***** row : 10
+***** for page : 16
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=151
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 보궐선거 부담... 강기윤 창원시장 꿈 좌절
+********** href : http://www.idomin.com/news/articleView.html?idxno=791916
+********** title : 강기윤 의원-김상규 창원시장 예비후보 '원 팀'
+********** href : http://www.gndomin.com/news/articleView.html?idxno=312696
+********** title : 강기윤 의원 “당 위한 더 큰 역할, 창원시장 공관위 결정 수용”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065609441740224
+********** title : 강기윤 의원 "창원, 산업위기대응특별지역 지정 최선"
+********** href : http://www.newsis.com/view/?id=NISX20220409_0001826839&cID=10812&pID=10800
+********** title : 강기윤 국회의원 "창원성산 지역구 특별교부세 8억원 확보"
+********** href : http://www.newsis.com/view/?id=NISX20220504_0001860223&cID=10812&pID=10800
+********** title : 강기윤 “정호영 의혹 대부분 해소...코로나19 종식 적임자”
+********** href : http://www.kukinews.com/newsView/kuk202205040222
+********** title : 강기윤, 창원시장 출마, "새로운 창원의 100년 도약, 윤석열과 함께"
+********** href : https://www.straightnews.co.kr/news/articleView.html?idxno=207736
+********** title : '창원시장 출마' 강기윤 "마산 바닷길 다시 열겠다"
+********** href : http://www.newskr.kr/news/articleView.html?idxno=76057
+********** title : 강기윤, 안철수 위원장에게 '창원특례시, 새로운 100년을 위한 제안서' 전달
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2445642
+********** title : 강기윤 의원 “청년이 행복한 창원 만들 것”
+********** href : http://www.kukinews.com/newsView/kuk202204110187
+***** row : 10
+***** for page : 17
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=161
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "창원시 백년 도약위해 '힘 있는 강기윤' 선도한다"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2440375
+********** title : '창원시장 출마' 강기윤 "마산 바닷길 다시 열겠다"
+********** href : http://www.newskr.kr/news/articleView.html?idxno=76057
+********** title : 강기윤, 안철수 위원장에게 '창원특례시, 새로운 100년을 위한 제안서' 전달
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2445642
+********** title : 강기윤 의원 “청년이 행복한 창원 만들 것”
+********** href : http://www.kukinews.com/newsView/kuk202204110187
+********** title : 강기윤 의원, "불합리한 창원시,개발제한구역 전면해제 추진"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2444944
+********** title : 창원시장 도전장 낸 강기윤 국회의원,"불합리한 개발제한구역 전면해제 추진"
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497993
+********** title : 강기윤 의원 "창원시, 산업위기대응특별지역 지정 노력"
+********** href : http://www.ntoday.co.kr/news/articleView.html?idxno=91475
+********** title : 경남 국회의원 상임위 쏠림…현안 어쩌나
+********** href : http://www.idomin.com/news/articleView.html?idxno=800034
+********** title : 강기윤 국회의원, 김상규 창원시장 예비후보와 '원 팀' 지지 선언
+********** href : https://www.asiatoday.co.kr/view.php?key=20220422010013214
+********** title : 강기윤 의원, 창원시장 출사표…"새로운 창원, 100년 도약 시작"
+********** href : https://www.cnbnews.com/news/article.html?no=539958
+***** row : 10
+***** for page : 18
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=171
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 국회의원, 김상규 창원시장 예비후보와 '원 팀' 지지 선언
+********** href : https://www.asiatoday.co.kr/view.php?key=20220422010013214
+********** title : 강기윤 의원, 창원시장 출사표…"새로운 창원, 100년 도약 시작"
+********** href : https://www.cnbnews.com/news/article.html?no=539958
+********** title : 강기윤 의원측, "김상규 예비후보 지지선언 한적 없다" 일축
+********** href : http://www.breaknews.com/889205
+********** title : 박완수·강기윤 출마에 빈자리 보선 부상
+********** href : http://www.idomin.com/news/articleView.html?idxno=790227
+********** title : "윤석열과 새로운 창원 100년 도약 이루겠다"…강기윤 국회의원 창원시장 출마
+********** href : http://news.tf.co.kr/read/ptoday/1928958.htm
+********** title : 강기윤 국회의원, "창원시장 컷오프 공관위 결정 수용"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2451906
+********** title : 與, 코로나 확산에 긴급 간담회…"병상·치료제 확보"
+********** href : https://www.yna.co.kr/view/AKR20220714164500001?input=1195m
+********** title : ‘성실함’ 1위 김민기, ‘윤핵관’ 윤한홍·장제원 ‘불성실’
+********** href : https://shindonga.donga.com/3/all/13/3524809/1
+********** title : 강기윤 의원 창원시장 공천 재심 결정 미뤄
+********** href : http://www.idomin.com/news/articleView.html?idxno=791624
+********** title : 강기윤 “민주당, 복지위 간호법 법안소위, 2시간 전 일정통보 갑질” 지적
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065604516891939
+***** row : 10
+***** for page : 19
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=181
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원 창원시장 공천 재심 결정 미뤄
+********** href : http://www.idomin.com/news/articleView.html?idxno=791624
+********** title : 강기윤 “민주당, 복지위 간호법 법안소위, 2시간 전 일정통보 갑질” 지적
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065604516891939
+********** title : 국힘 창원시장 4인경선, 강기윤 김재경은 컷오프
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220413.99099003610
+********** title : 창원시장 출마 선언한 강기윤, 마산 바닷길 다시 연다
+********** href : http://www.newscj.com/news/articleView.html?idxno=969119
+********** title : 강기윤 의원, “마산 바닷길 다시 열겠다”
+********** href : http://www.breaknews.com/886452
+********** title : 강기윤 의원 "안철수 인수위원회 위원장에게 창원발전 제안서 직접 전달"
+********** href : https://www.nbntv.co.kr/news/articleView.html?idxno=965728
+********** title : 강기윤 의원 "창원시 개발제한구역 전면해제"
+********** href : http://www.gndomin.com/news/articleView.html?idxno=311301
+********** title : 강기윤 의원, "창원, 산업위기대응지역 지정 윤석열 당선인과 소통"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2444035
+********** title : 정호영 후보자 아들 MRI 관련 언쟁 벌이는 김성주-강기윤 간사
+********** href : http://www.newspim.com/news/view/20220503000822
+********** title : 논의하는 김성주-강기윤 의원
+********** href : http://www.newsis.com/view/?id=NISI20220503_0018763585
+***** row : 10
+***** for page : 20
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=191
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원, "창원, 산업위기대응지역 지정 윤석열 당선인과 소통"
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2444035
+********** title : 정호영 후보자 아들 MRI 관련 언쟁 벌이는 김성주-강기윤 간사
+********** href : http://www.newspim.com/news/view/20220503000822
+********** title : 논의하는 김성주-강기윤 의원
+********** href : http://www.newsis.com/view/?id=NISI20220503_0018763585
+********** title : 강기윤, '과다 보상금' 1억여 원 창원시에 환급
+********** href : https://www.nocutnews.co.kr/news/5735230
+********** title : 강기윤 의원 과다지급 받은 토지보상금 1억여원 창원시에 반납
+********** href : https://www.news1.kr/articles/?4638071
+********** title : 강기윤 의원, ‘허위 보상’ 1억 원 창원시에 반납
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5431807&ref=A
+********** title : 강기윤 국회의원, 창원시장 출마선언
+********** href : http://www.breaknews.com/884288
+********** title : 국힘 강기윤, 창원시장 출마선언…경남서 현역 의원 두번째
+********** href : https://www.nocutnews.co.kr/news/5734284
+********** title : 강기윤 의원, 6.1지선 창원시장 출마선언
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497405
+********** title : 강기윤 의원 가세, 국힘 창원시장선거 공천 경쟁 더 치열
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822741&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+***** row : 10
+***** for page : 21
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=201
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 국힘 강기윤, 창원시장 출마선언…경남서 현역 의원 두번째
+********** href : https://www.nocutnews.co.kr/news/5734284
+********** title : 강기윤 의원, 6.1지선 창원시장 출마선언
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497405
+********** title : 강기윤 의원 가세, 국힘 창원시장선거 공천 경쟁 더 치열
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822741&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 정의당 경남도당 "강기윤 의원, 보강수사하고 환수조치하라"
+********** href : https://www.nocutnews.co.kr/news/5721461
+********** title : 1년 수사 끝에 강기윤 의원 검찰 송치…“부실 수사, 이의신청”
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5411851&ref=A
+********** title : 1년 수사 끝에 강기윤 의원 검찰 송치…“부실 수사, 이의신청”
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5411608&ref=A
+********** title : 강기윤 의원 "창원시장 선거 불출마…공관위 결정 수용"
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1374867
+********** title : 강기윤 의원 "서울 의사 533명 윤석열 후보지지 선언"
+********** href : https://www.gokorea.kr/news/articleView.html?idxno=720471
+********** title : 대한한의사협회, 강기윤·이종성·전봉민 의원 공동 주최로 '바람직한 한약 안전 거버넌스 구축을 위한 정책토론회' 개최
+********** href : http://www.thefirstmedia.net/news/articleView.html?idxno=92328
+********** title : 강기윤·박완수와 홍준표의 길
+********** href : http://www.idomin.com/news/articleView.html?idxno=791674
+***** row : 10
+***** for page : 22
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=211
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 의원, 창원시장 출마한다
+********** href : http://www.gndomin.com/news/articleView.html?idxno=310534
+********** title : 강기윤 의원 가세, 국힘 창원시장선거 공천 경쟁 더 치열
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822741&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 정의당 경남도당 "강기윤 의원, 보강수사하고 환수조치하라"
+********** href : https://www.nocutnews.co.kr/news/5721461
+********** title : 1년 수사 끝에 강기윤 의원 검찰 송치…“부실 수사, 이의신청”
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5411851&ref=A
+********** title : 1년 수사 끝에 강기윤 의원 검찰 송치…“부실 수사, 이의신청”
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5411469&ref=A
+********** title : 강기윤 의원 "창원시장 선거 불출마…공관위 결정 수용"
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1374867
+********** title : 강기윤 의원 "서울 의사 533명 윤석열 후보지지 선언"
+********** href : https://www.gokorea.kr/news/articleView.html?idxno=720471
+********** title : 대한한의사협회, 강기윤·이종성·전봉민 의원 공동 주최로 '바람직한 한약 안전 거버넌스 구축을 위한 정책토론회' 개최
+********** href : http://www.thefirstmedia.net/news/articleView.html?idxno=92328
+********** title : 강기윤·박완수와 홍준표의 길
+********** href : http://www.idomin.com/news/articleView.html?idxno=791674
+********** title : 민주 송하진, 국힘 강기윤… 현역 컷오프 이변 속출
+********** href : http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002703100054&ctcd=C03
+***** row : 10
+***** for page : 23
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=221
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 민주 송하진, 국힘 강기윤… 현역 컷오프 이변 속출
+********** href : http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002703100054&ctcd=C03
+********** title : 강기윤 “윤석열 정부와 손을 맞잡고 창원시 청년 취업률 높이겠다”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065542228162522
+********** title : 강기윤 의원 “원전 재가동해 창원경제 되살리겠다”
+********** href : http://www.newsgn.com/325876
+********** title : 강기윤 의원, “불합리한 창원시 개발제한구역 전면해제 추진”
+********** href : http://www.shinailbo.co.kr/news/articleView.html?idxno=1537443
+********** title : 강기윤 의원 '토지보상법 위반' 혐의 검찰 송치
+********** href : http://www.idomin.com/news/articleView.html?idxno=787665
+********** title : 강기윤 '과다 보상금 1억 400만 원' 창원시에 환급
+********** href : http://www.idomin.com/news/articleView.html?idxno=790319
+********** title : 허성무 창원시장, 강기윤 국회의원의 장모 김연석씨 빈소 조문
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2441396
+********** title : [6·1 지방선거 출마합니다] 강기윤 국회의원 ‘창원시장’
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373653
+********** title : 강기윤 등판… 국민의힘 창원시장 공천 각축전
+********** href : http://www.idomin.com/news/articleView.html?idxno=790232
+********** title : 국힘 강기윤 국회의원, 제4대 창원시장 출마 선언
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220404.99099000664
+***** row : 10
+***** for page : 24
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=231
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 국회의원, '과다 보상금' 1억원 창원시에 반납
+********** href : http://news.tvchosun.com/site/data/html_dir/2022/04/05/2022040590099.html
+********** title : [6·1 지방선거 출마합니다] 강기윤 국회의원 ‘창원시장’
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373653
+********** title : 강기윤 등판… 국민의힘 창원시장 공천 각축전
+********** href : http://www.idomin.com/news/articleView.html?idxno=790232
+********** title : 국힘 강기윤 국회의원, 제4대 창원시장 출마 선언
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220404.99099000664
+********** title : 강기윤 의원, 4일 창원시장 출마선언
+********** href : https://www.nocutnews.co.kr/news/5733657
+********** title : 지역 국회의원 최고 자산가 부산 전봉민, 경남 강기윤
+********** href : http://news.knn.co.kr/news/todaynews_read.asp?etime=2022033100024&userid=newstar&newsgubun=politics
+********** title : 강기윤 위원과 인사하는 안철수 위원장
+********** href : https://www.news1.kr/photos/view/?5296088
+********** title : 지역 국회의원 최고 자산가 부산 전봉민, 경남 강기윤
+********** href : http://news.knn.co.kr/news/todaynews_read.asp?etime=2022033100024&userid=newstar&newsgubun=politics
+********** title : 이달곤 "안철수 없이 갑시다" vs 강기윤 "그래도 안고 갑시다"
+********** href : http://www.newsis.com/view/?id=NISX20220228_0001776641&cID=10812&pID=10800
+********** title : 강기윤 “서울시 간호사 2,823명, 윤석열 대통령 후보지지 선언”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065605348213605
+***** row : 10
+***** for page : 25
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=241
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 강기윤 위원과 인사하는 안철수 위원장
+********** href : https://www.news1.kr/photos/view/?5296088
+********** title : 지역 국회의원 최고 자산가 부산 전봉민, 경남 강기윤
+********** href : http://news.knn.co.kr/news/todaynews_read.asp?etime=2022033100024&userid=newstar&newsgubun=politics
+********** title : 이달곤 "안철수 없이 갑시다" vs 강기윤 "그래도 안고 갑시다"
+********** href : http://www.newsis.com/view/?id=NISX20220228_0001776641&cID=10812&pID=10800
+********** title : 강기윤 “서울시 간호사 2,823명, 윤석열 대통령 후보지지 선언”
+********** href : https://www.thepublic.kr/news/newsview.php?ncode=1065605348213605
+********** title : 경남경찰청, 강기윤 국회의원 토지보상법위반혐의 검찰 송치
+********** href : http://www.busan.com/view/busan/view.php?code=2022030716204149387
+********** title : [간추린 경남] 강기윤 국회의원 ‘토지보상법 위반’ 송치 외
+********** href : https://news.kbs.co.kr/news/view.do?ncd=5410566&ref=A
+********** title : 이달곤 "안철수 필요없다" 강기윤 "안철수 같이가야"
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002814282&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : [포토] 이준석-박완수-강기윤, 창원역 유세...윤석열 후보 지지 호소
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2417386
+********** title : [포토] 강기윤 "한약인 1001인 윤석열 후보 지지선언 감사"
+********** href : https://www.newdaily.co.kr/site/data/html/2022/02/21/2022022100157.html
+********** title : "눈앞에 다가온 초고령사회, 커뮤니티케어 재정비해야"
+********** href : http://www.newsmp.com/news/articleView.html?idxno=225164
+***** row : 10
+***** for page : 26
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=251
+********** status_code : 200
+********** len(tagA) : 10
+********** title : "눈앞에 다가온 초고령사회, 커뮤니티케어 재정비해야"
+********** href : http://www.newsmp.com/news/articleView.html?idxno=225164
+********** title : 코로나 재확산에…輿 긴급 간담회 "병상 확보하라"
+********** href : http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202207140328&t=NN
+********** title : 국회 보건복지위원회 후반기 위원장…더불어민주당 정춘숙·한정애 의원 선정
+********** href : http://medicalworldnews.co.kr/news/view.php?idx=1510950899
+********** title : 초고령화 시대에 커뮤니티 케어 강조…핵심은 '의료·돌봄 균형'
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=145430
+********** title : 안철수, '과학방역·백신주권' 민·당·정 토론회…세 결집 지속
+********** href : http://www.newsis.com/view/?id=NISX20220725_0001955574&cID=10301&pID=10300
+********** title : 안철수 "尹, 총리 아닌 전문가에 방역 맡겨야"…정책 존재감 '힘주기'(종합)
+********** href : https://www.news1.kr/articles/?4753826
+********** title : 같은 날 열린 김기현·안철수 모임…참석 의원 金 56명 安 35명
+********** href : https://biz.chosun.com/policy/politics/2022/07/20/I3G5A754QVB2FLSCZHH7TSSNSE/?utm_source=naver&utm_medium=original&utm_campaign=biz
+********** title : 21대 국회 전반기 PK결산 <하> 경남·울산 의원 성적표
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220622.22004005711
+********** title : 국회 보건복지위원회 재희망한 국회의원은 누구?
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144990
+********** title : 창원성산구당원협의회, 환경정화 봉사활동
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=503087
+***** row : 10
+***** for page : 27
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=261
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 창원성산구당원협의회, 환경정화 봉사활동
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=503087
+********** title : UnicodeEncodeError
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=886279
+********** title : [초점]간호법 통과한 날, 복지위에선 어떤 일이 있었나
+********** href : http://www.docdocdoc.co.kr/news/articleView.html?idxno=2023201
+********** title : "국민의힘은 간호법 반대안해…그래도 법안소위 재회부해야”
+********** href : https://zdnet.co.kr/view/?no=20220517110210
+********** title : 간호법 복지위 전체회의 통과...국힘 의원들 퇴장했지만 다수 민주당에 '역부족'(종합)
+********** href : http://www.medigatenews.com/news/2898534192
+********** title : 국회 복지위 반환점 '수술실 CCTV법'부터 간호법'까지 의료계에 민감한 법안들 '투성'
+********** href : http://www.medigatenews.com/news/1727449283
+********** title : 여야 원구성 이견 좁혀…복지위원장은 여야 모두 원해
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=289973&REFERER=NP
+********** title : '與 당권 주자' 안철수·김기현, 잇단 공부 모임…세 결집 '잰걸음'
+********** href : http://www.newsis.com/view/?id=NISX20220720_0001949967&cID=10301&pID=10300
+********** title : 정호영 보건복지부 장관 후보자 청문회 ③
+********** href : https://www.ytn.co.kr/replay/view.php?idx=21&key=202205031208040694
+********** title : 안철수 '과학적 방역, 백신 주권' 토론회 개최 [뉴시스Pic]
+********** href : http://www.newsis.com/view/?id=NISX20220726_0001956431&cID=10301&pID=10300
+***** row : 10
+***** for page : 28
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=271
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 안철수 '과학적 방역, 백신 주권' 토론회 개최 [뉴시스Pic]
+********** href : http://www.newsis.com/view/?id=NISX20220726_0001956431&cID=10301&pID=10300
+********** title : 간호법, 국회 복지위 법안소위 통과..민주당 단독 강행
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2173203
+********** title : 국민의힘, 코로나 확산 대응 긴급 간담회 개최... 병상·치료제 확보 총력
+********** href : http://www.lawissue.co.kr/view.php?ud=202207150714552146b3279dfb36_12
+********** title : [종합] 자녀 의혹뿐인 인사청문…정책 검증 없었다
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144390
+********** title : [생중계] 정호영 보건복지부 장관 후보자 인사청문회… 각종 의혹 검증대 올라
+********** href : http://www.newscj.com/news/articleView.html?idxno=976664
+********** title : 창원시장 선거 국민의힘 후보경선 '과열'
+********** href : http://www.newsfreezone.co.kr/news/articleView.html?idxno=376219
+********** title : 민주당 허성무 창원시장과 맞붙을 국민의힘 후보는?
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002828087&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : [Who Is ?] 여영국 정의당 대표
+********** href : https://www.businesspost.co.kr/BP?command=article_view&num=278162
+********** title : 국민의힘 창원시장 후보 경선, 막판 과열 양상
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=499013
+********** title : ‘경남’보다 뜨거운 ‘창원’ 선거 열기
+********** href : http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002703100005&ctcd=C03
+***** row : 10
+***** for page : 29
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=281
+********** status_code : 200
+********** len(tagA) : 10
+********** title : '가짜 지지선언 허위유포' 선관위에 조사 요청
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2453455
+********** title : 野 단독 임시회 소집 움직임…권성동 "입법독재 재시작 신호탄"
+********** href : https://www.news1.kr/articles/?4724943
+********** title : 안철수, 오늘 3차 민당정 토론회…백신 개발 권위자 '제롬 김' 참여
+********** href : https://www.news1.kr/articles/?4753115
+********** title : 국민의힘 창원시장 경선 후보 4명 압축…김상규·장동화·차주목·홍남표
+********** href : https://www.news1.kr/articles/?4647483
+********** title : 여성들, 국힘 국회의원 사무소 앞 "여가부 폐지 철회" 손팻말
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002822630&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : [경남도정] 교육감 보수 단일화 성공, 창원시장 선거전 재편
+********** href : http://news.knn.co.kr/news/todaynews_read.asp?etime=2022040400036&userid=chutak&newsgubun=politics
+********** title : 국민의힘 창원시장 후보들 '광역시 승격' 통할까
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=497756
+********** title : [6·1지방선거 누가 뛰나] 창원시장
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373712
+********** title : 국회의원 잇단 출사표… 6월 선거판 커지나
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373595
+********** title : 국회의원 10명 중 8명, 코로나 위기에도 재산 늘었다
+********** href : http://www.naeil.com/news_view/?id_art=418608
+***** row : 10
+***** for page : 30
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=291
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 국회의원 10명 중 8명, 코로나 위기에도 재산 늘었다
+********** href : http://www.naeil.com/news_view/?id_art=418608
+********** title : 부산 국회의원 5명 50억 이상 부자…전봉민 1065억 최다
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220331.33005008177
+********** title : "政, '소트로비맙·몰누피라비르' 등 다양한 코로나 치료제 준비 미흡”
+********** href : https://mdtoday.co.kr/news/view/1065595306274267
+********** title : 안철수 "대내외 총체적 난국…올바른 판단·설득이 與자세"
+********** href : http://www.newsis.com/view/?id=NISX20220720_0001949702&cID=10301&pID=10300
+********** title : 인수위 코로나특위 출범...최재욱·정기석·오영돈·전병률 '승선'
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=143752
+********** title : 민주당 낙선 김지수·허성무·변광용 '총선 앞으로'
+********** href : http://www.idomin.com/news/articleView.html?idxno=798913
+********** title : 창원대학교 의과대학 유치， 정말 가능할까?
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=490354
+********** title : '국회 정상화' 복지수장 빈자리도 채우나…하마평 무성
+********** href : http://www.newsis.com/view/?id=NISX20220723_0001953644&cID=10201&pID=10200
+********** title : 안철수·김기현, 與 세력 결집 시동...'당심' 얻기 나서
+********** href : https://www.ajunews.com/view/20220726172745785
+********** title : 여 최고위원에 정점식 임명 수순… 경남도당위원장은 하영제 유력
+********** href : http://www.busan.com/view/busan/view.php?code=2022072519233432411
+***** row : 10
+***** for page : 31
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=301
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 여 최고위원에 정점식 임명 수순… 경남도당위원장은 하영제 유력
+********** href : http://www.busan.com/view/busan/view.php?code=2022072519233432411
+********** title : 창원시, 지역 국회의원 초청해 연석회의…국비 확보 협조 요청
+********** href : https://www.yna.co.kr/view/AKR20220714128000052?input=1195m
+********** title : 원자력병원, 내과계 간호ㆍ간병통합서비스 병동 추가 개소 外
+********** href : http://www.newsmp.com/news/articleView.html?idxno=221457
+********** title : 대구·경북의사회, 국민의힘과 의료정책간담회 개최
+********** href : http://www.bokuennews.com/news/article.html?no=213473
+********** title : 국민의힘 선대위 “공정과 상식 따라 한의약 균형 발전” 약속
+********** href : https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=48095
+********** title : 한약사 등 1000명 윤 지지
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=489897
+********** title : 박재완, 새미래 세미나서 "불법파업 대응, 욕 먹더라도 총대 메야"
+********** href : http://www.newsis.com/view/?id=NISX20220720_0001949298&cID=10301&pID=10300
+********** title : UnicodeEncodeError
+********** href : http://www.docdocdoc.co.kr/news/articleView.html?idxno=2025572
+********** title : UnicodeEncodeError
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2177654
+********** title : “세력이 곧 힘”…與판갈이 앞두고 덩치 키우는 당권주자들
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=03178326632396488
+***** row : 10
+***** for page : 32
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=311
+********** status_code : 200
+********** len(tagA) : 10
+********** title : UnicodeEncodeError
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2177654
+********** title : “세력이 곧 힘”…與판갈이 앞두고 덩치 키우는 당권주자들
+********** href : http://www.edaily.co.kr/news/newspath.asp?newsid=03178326632396488
+********** title : 안철수, 오늘 오전 10시 '과학 방역과 백신주권 국회 토론회' 개최
+********** href : http://www.newspim.com/news/view/20220725000963
+********** title : 권성동, 정부방역 질타…"각자도생 비판 나온다"
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2022072610320170484
+********** title : 安 "총체적 난국 '비전' 제시하는 게 與의 자세…새 지도체제 입장 밝힐 것"(종합)
+********** href : https://www.news1.kr/articles/?4747954
+********** title : 김기현 공부모임, 국민의힘 50여명 참석…"특단의 대책 필요"
+********** href : http://news.mt.co.kr/mtview.php?no=2022072009473987487
+********** title : 안철수 "과학방역, 전문가가 결정권 갖는 것…尹, 방역 사령관 지명해야"
+********** href : http://www.newspim.com/news/view/20220726000666
+********** title : 부울경 정치권, 후반기 상임위 배치 ‘절반의 성공’
+********** href : http://www.busan.com/view/busan/view.php?code=2022072418170267738
+********** title : 국회 보건복지위원장에 정춘숙 의원
+********** href : http://www.dentalnews.or.kr/news/article.html?no=34496
+********** title : ‘이준석 키즈’ 대변인들의 모순과 선택적 정의
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065601360842134
+***** row : 10
+***** for page : 33
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=321
+********** status_code : 200
+********** len(tagA) : 10
+********** title : ‘이준석 키즈’ 대변인들의 모순과 선택적 정의
+********** href : http://thepublic.kr/news/newsview.php?ncode=1065601360842134
+********** title : 여전한 민주당의 의대 유치 주장, 이번에는 전남 순천대 연구용역 발표
+********** href : http://www.medigatenews.com/news/2148388285
+********** title : "과학기술 발전, 국가 차원에서 전략적으로 접근해야" [안철수 민·당·정 토론회]
+********** href : http://www.sisaon.co.kr/news/articleView.html?idxno=141075
+********** title : 안철수 '위기를 넘어 미래로' 토론…친윤계 등 50여명 결집(종합)
+********** href : http://www.newsis.com/view/?id=NISX20220712_0001939803&cID=10301&pID=10300
+********** title : 보건복지부 장관 "대체 언제"…여당 의원 발언 보니?
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=145543
+********** title : [공부모임 한 달] '열공'하는 與 의원들...'민들레'는 재결성 ·장관 부른 '새미래'
+********** href : https://www.ajunews.com/view/20220727095311996
+********** title : 국회 후반기 원 구성 합의
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=505905
+********** title : "백신주권 확보, 정부 R&D 제도 지원에 달렸다"
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2178059
+********** title : 코로나19 대응 위해 '근거 기반 과학 방역' 해야
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=145531
+********** title : 백신 개발 권위자 제롬 김, 26일 安 토론회서 '코로나 특강'
+********** href : https://www.news1.kr/articles/?4751783
+***** row : 10
+***** for page : 34
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=331
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 힘받는 권성동 '직대체제'…與 재선들도 "중앙당 해석 그대로 받아들일 것"
+********** href : https://www.dailian.co.kr/news/view/1131295/?sc=Naver
+********** title : UnicodeEncodeError
+********** href : http://www.shinailbo.co.kr/news/articleView.html?idxno=1576083
+********** title : 홍남표 창원시장, 지역 국회의원 초청 국비사업 간담회
+********** href : http://www.newsis.com/view/?id=NISX20220714_0001943189&cID=10812&pID=10800
+********** title : 후반기 국회 보건복지위원장에 정춘숙 의원
+********** href : http://www.rapportian.com/news/articleView.html?idxno=149518
+********** title : 안철수, 과학적 방역 시스템 강조
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2515657
+********** title : [의사당와이파이]망사용료법 전초전?… "입법 반대"
+********** href : http://news.mt.co.kr/mtview.php?no=2022071108255158494
+********** title : 안철수 '민·당·정 토론회' 12일 출범…첫 주제는 '글로벌 경제위기'
+********** href : http://www.newsis.com/view/?id=NISX20220706_0001932796&cID=10301&pID=10300
+********** title : 창원시ㆍ국힘 국회의원 국비 확보 `원팀`
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=499884
+********** title : 안철수 민·당·정 토론회' 공식 활동 돌입…친윤계 등 50여명 결집(종합)
+********** href : https://www.sisa-news.com/news/article.html?no=205257
+********** title : 창원시·국회의원·공공기관 ‘내년 국비 확보’ 머리 맞댄다
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1381115
+***** row : 10
+***** for page : 35
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=341
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 안철수 민·당·정 토론회' 공식 활동 돌입…친윤계 등 50여명 결집(종합)
+********** href : https://www.sisa-news.com/news/article.html?no=205257
+********** title : 창원시·국회의원·공공기관 ‘내년 국비 확보’ 머리 맞댄다
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1381115
+********** title : 경남 박대출ㆍ조해진 상임위원장 선출
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=500443
+********** title : 창원시 지역기관-국회의원, 내년 국비확보 위해 원팀
+********** href : https://www.sedaily.com/NewsView/268IOUF1CV
+********** title : 안철수, ‘민·당·정 토론회’ 12일 출범… 당내 세력화 본격화
+********** href : http://www.segye.com/content/html/2022/07/06/20220706511017.html?OutUrl=naver
+********** title : 환자 중심의 보건의료정책을 위한 토론회 [쿠키포토]
+********** href : http://www.kukinews.com/newsView/kuk202207210074
+********** title : "복지 편중 커뮤니티 케어, 1차의료 가미 시급"
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=886441
+********** title : 안철수, '방역' 이슈 선점…당권 주자 존재감 키운다
+********** href : http://www.metroseoul.co.kr/article/20220726500429
+********** title : [의사당와이파이]"방통위, 왜 구글 '인앱결제' 놔두냐?"
+********** href : http://news.mt.co.kr/mtview.php?no=2022070408501216627
+********** title : 하반기 국회 보건복지위원회 위원장 및 위원
+********** href : http://www.foodnews.co.kr/news/articleView.html?idxno=97849
+***** row : 10
+***** for page : 36
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=351
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [의사당와이파이]"방통위, 왜 구글 '인앱결제' 놔두냐?"
+********** href : http://news.mt.co.kr/mtview.php?no=2022070408501216627
+********** title : 창원특례시-8개 기관-지역 국회의원, 내년 국비확보에 '원팀' 선언
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2022071415192198613
+********** title : 하반기 국회 보건복지위원회 위원장 및 위원
+********** href : http://www.foodnews.co.kr/news/articleView.html?idxno=97849
+********** title : [7/11 데일리안 퇴근길뉴스] "6발 남았다" 尹대통령 테러 암시 글 올린 40대 검거 등
+********** href : https://www.dailian.co.kr/news/view/1131193/?sc=Naver
+********** title : 국회 복지위, 전반기처럼 의사1 ·약사2 ·간호사 1명
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=290293&REFERER=NP
+********** title : 與, 민주 '7월 임시국회' 소집에…"입법독재 재시작"(종합)
+********** href : http://www.newsis.com/view/?id=NISX20220628_0001923510&cID=10301&pID=10300
+********** title : 국회 후반기 복지위에 누가 오나…국힘은 잠정 확정
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=289386&REFERER=NP
+********** title : 의료 ‘실종’된 커뮤니티케어...제도 정비하고 의사 참여 이끌어내야
+********** href : http://www.medigatenews.com/news/3001642554
+********** title : 국민의힘, 후반기 국회 상임위 간사 발표
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=502517
+********** title : 법화종 창종 76주년 기념 법회 봉행
+********** href : http://www.hyunbulnews.com/news/articleView.html?idxno=405254
+***** row : 10
+***** for page : 37
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=361
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 창원시 8개 기관-지역 국회의원, 내년 국비확보 총력
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2508557
+********** title : 의료 ‘실종’된 커뮤니티케어...제도 정비하고 의사 참여 이끌어내야
+********** href : http://www.medigatenews.com/news/3001642554
+********** title : 국민의힘, 후반기 국회 상임위 간사 발표
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=502517
+********** title : 법화종 창종 76주년 기념 법회 봉행
+********** href : http://www.hyunbulnews.com/news/articleView.html?idxno=405254
+********** title : 정우택 의원, 중견기업의 中企 혜택 유예기간 확대 ‘중기기본법 개정안’ 대표발의
+********** href : https://www.asiatoday.co.kr/view.php?key=20220629001721175
+********** title : 반환점 앞둔 21대 국회...복지위 위원 중 법안 발의왕은 '국민의힘 이종성 의원'
+********** href : http://www.medigatenews.com/news/2861268526
+********** title : [6.1지방선거] 국민의힘 경남선대위 합동출정식
+********** href : http://www.newscj.com/news/articleView.html?idxno=982909
+********** title : 설상가상 의료계, 간호법 이어 ‘의사면허법’
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=884111
+********** title : 김민석 위원장 임현택 회장에 경고 "부정확한 내용 시위 내용증명·민형사 조치"
+********** href : http://www.medigatenews.com/news/952281765
+********** title : 與, 간호법 기습통과 질타 vs 野, 의사면허 취소법 응수
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2173694
+***** row : 10
+***** for page : 38
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=371
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [6.1지방선거] 국민의힘 경남선대위 합동출정식
+********** href : http://www.newscj.com/news/articleView.html?idxno=982909
+********** title : 설상가상 의료계, 간호법 이어 ‘의사면허법’
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=884111
+********** title : 김민석 위원장 임현택 회장에 경고 "부정확한 내용 시위 내용증명·민형사 조치"
+********** href : http://www.medigatenews.com/news/952281765
+********** title : 與, 간호법 기습통과 질타 vs 野, 의사면허 취소법 응수
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2173694
+********** title : 국민의힘 "간호법 단독 의결 더불어민주당 사과해야"
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144568
+********** title : 돌발상황 간호법, 복지위 통과…논란 속 8부능선 넘었다
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1147397&ref=naverpc
+********** title : 더불어민주당, 야당 무시...간호법안 또 강행?
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144435
+********** title : 국민의힘 의원들, 행안부 특교세 확보 잇따라
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=500108
+********** title : 새 정부 틀 함께 짰지만 결산서는 달라
+********** href : http://www.idomin.com/news/articleView.html?idxno=793402
+********** title : 경남 현안사업 특별교부세 확보 잇따라
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1376063
+***** row : 10
+***** for page : 39
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=381
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 국민의힘 의원들, 행안부 특교세 확보 잇따라
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=500108
+********** title : 새 정부 틀 함께 짰지만 결산서는 달라
+********** href : http://www.idomin.com/news/articleView.html?idxno=793402
+********** title : 경남 현안사업 특별교부세 확보 잇따라
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1376063
+********** title : 진보 1번지, 정치신인 청년들 도전 후끈
+********** href : http://www.idomin.com/news/articleView.html?idxno=793262
+********** title : 부울경 국회의원, 총선 겨냥 ‘노른자’ 상임위 쏠림
+********** href : http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20220707.22005001527
+********** title : [사실은X마부작침] 시장님이 주무를 예산은 얼마인가요?
+********** href : https://news.sbs.co.kr/news/endPage.do?news_id=N1006737007&plink=ORI&cooper=NAVER
+********** title : UnicodeEncodeError
+********** href : http://www.bosa.co.kr/news/articleView.html?idxno=2172942
+********** title : 安, '尹국정과제 공부' 민·당·정 토론 기획…당권플랜 가동?
+********** href : https://www.yna.co.kr/view/AKR20220706057300001?input=1195m
+********** title : 정호영 "같은 서류내고 아들 40점 오른 이유? 지원 전형 달라서"(종합)
+********** href : https://www.news1.kr/articles/?4669836
+********** title : 정호영 인사청문회, 민주당 집단퇴장…“수사해야” “의혹 빈수레”
+********** href : https://biz.chosun.com/policy/politics/2022/05/03/H2IE7Q3F7VG6VFUTVKKCS6IB4U/?utm_source=naver&utm_medium=original&utm_campaign=biz
+***** row : 10
+***** for page : 40
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=391
+********** status_code : 200
+********** len(tagA) : 10
+********** title : “불합격 서류 그대로 이듬해 합격” 정호영 아들 의혹에 청문회 파행
+********** href : https://www.joongang.co.kr/article/25068535
+********** title : 정책검증 빠진 정호영 청문회…여·야 힘겨루기로 결국 파행
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1147154&ref=naverpc
+********** title : “청문회 의미 없다” 민주당 집단퇴장…정호영 “도덕적 문제 없다”
+********** href : https://www.seoul.co.kr/news/newsView.php?id=20220503500220&wlog_tag3=naver
+********** title : "이런 후보 처음, 수사로 밝혀야" 민주당, 정호영 청문회 퇴장(종합)
+********** href : https://www.nocutnews.co.kr/news/5750938
+********** title : 더불어민주당 퇴장...정호영 장관 인사청문회 중단
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144388
+********** title : [현장] '아빠찬스' 정호영 청문회, 민주 “자진사퇴” 국민의힘 “잘못”
+********** href : https://www.businesspost.co.kr/BP?command=article_view&num=279758
+********** title : 여야 한목소리 정호영 후보자 자녀 입시 문제 질타…인수위 '버리는 카드' 주장까지
+********** href : http://www.medigatenews.com/news/1059032014
+********** title : [더뉴스] 김인철 자진사퇴...정호영 청문회 주요 쟁점은?
+********** href : https://www.ytn.co.kr/_ln/0103_202205031429286435
+********** title : 정호영 후보자, 자진사퇴 압박에 "도덕·윤리적 문제 없어"
+********** href : https://news.mtn.co.kr/news-detail/2022050315125644764
+********** title : '아빠 찬스' 정호영 "문제될 게 없다"
+********** href : http://www.sisaweek.com/news/articleView.html?idxno=153155
+***** row : 10
+***** for page : 41
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=401
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 여야 한목소리 정호영 후보자 자녀 입시 문제 질타…인수위 '버리는 카드' 주장까지
+********** href : http://www.medigatenews.com/news/1059032014
+********** title : [더뉴스] 김인철 자진사퇴...정호영 청문회 주요 쟁점은?
+********** href : https://www.ytn.co.kr/_ln/0103_202205031429286435
+********** title : 정호영 후보자, 자진사퇴 압박에 "도덕·윤리적 문제 없어"
+********** href : https://news.mtn.co.kr/news-detail/2022050315125644764
+********** title : '아빠 찬스' 정호영 "문제될 게 없다"
+********** href : http://www.sisaweek.com/news/articleView.html?idxno=153155
+********** title : 정호영 보건복지부 장관 후보자 청문회 ①
+********** href : https://www.ytn.co.kr/replay/view.php?idx=21&key=202205031111471309
+********** title : 安, '尹국정과제 공부' 민·당·정 토론 기획…당권플랜 가동?
+********** href : https://www.yna.co.kr/view/AKR20220706057300001?input=1195m
+********** title : 창원특례시 8개 기관-국회의원, 현안사업 예산확보에 '한 뜻'
+********** href : https://www.nocutnews.co.kr/news/5787398
+********** title : "권리보장법·탈시설지원법 원안 그대로 통과" 외쳤지만 다음 기회로
+********** href : https://www.beminor.com/news/articleView.html?idxno=23231
+********** title : 정호영 후보자 자료 제출 70% 거절…여당 의원들 "이대론 깜깜이 청문회 된다"
+********** href : http://www.medigatenews.com/news/2091285103
+********** title : 제74차 정총 국회 "의협 '소통 강화' 보기 좋다"...유연한 '대외협력'에 기대
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=144232
+***** row : 10
+***** for page : 42
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=411
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 국회 복지위원장 '야당' 몫 유력…타 위원회 출신 가능성↑
+********** href : http://www.press9.kr/news/articleView.html?idxno=52161
+********** title : 정호영 인사청문회, 다음달 3일 열린다
+********** href : https://www.hani.co.kr/arti/politics/politics_general/1039950.html
+********** title : 경제부터 과학·연금개혁까지… 安, 12일 '민당정 토론회' 띄운다
+********** href : http://www.inews24.com/view/1497625
+********** title : 국힘 "시간 끌 이유 없다…野, 11대7로 상임위 배분해야"
+********** href : https://www.news1.kr/articles/?4732156
+********** title : 창원특례시 8개 기관·국회의원, 국비확보 원팀 선언
+********** href : https://www.asiatoday.co.kr/view.php?key=20220714010008381
+********** title : 국민의힘 창원시장 경선 대진표 확정
+********** href : http://www.idomin.com/news/articleView.html?idxno=791213
+********** title : 시장에 국회의원 보선까지.. 불붙는 창원 선거
+********** href : http://news.knn.co.kr/news/todaynews_read.asp?etime=2022041300016&userid=yoon&newsgubun=politics
+********** title : "진보4당 '1선거구 1후보 원칙으로 퇴행적 보수 맞선다"
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002825823&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 국힘 창원시장 후보 23일 결정
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1374228
+********** title : 지방선거 앞두고 여야 모두 의대 설립 공약...이번에도 '공수표' 될까
+********** href : http://www.medigatenews.com/news/3090860360
+***** row : 10
+***** for page : 43
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=421
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 국힘 창원시장 경선 1차 컷오프, 김상규·장동화·차주목·홍남표 통과
+********** href : https://www.sisa-news.com/news/article.html?no=195792
+********** title : "진보4당 '1선거구 1후보 원칙으로 퇴행적 보수 맞선다"
+********** href : http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002825823&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+********** title : 국힘 창원시장 후보 23일 결정
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1374228
+********** title : 지방선거 앞두고 여야 모두 의대 설립 공약...이번에도 '공수표' 될까
+********** href : http://www.medigatenews.com/news/3090860360
+********** title : 국힘 창원시장 예비후보들, 대선 기세 몰아 공약 쏟아내
+********** href : http://news.tf.co.kr/read/national/1930669.htm
+********** title : 창원시장 출마자들, 각양각색 공약 잇따라
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1374040
+********** title : "권성동 직무대행체제"…국힘, 재선도 의견일치
+********** href : http://moneys.mt.co.kr/news/mwView.php?no=2022071116003811841
+********** title : 국힘 ‘창원특례시장선거 공천’ 중앙당 이관
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373913
+********** title : [오늘의 부고]삼가 고인의 명복을 빕니다
+********** href : http://www.mediapen.com/news/view/713748
+********** title : 안철수, '민·당·정 토론회' 12일 개최…당내 세력 구축 본격화
+********** href : https://www.newdaily.co.kr/site/data/html/2022/07/06/2022070600127.html
+***** row : 10
+***** for page : 44
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=431
+********** status_code : 200
+********** len(tagA) : 10
+********** title : [고위공직자 재산] 국회의원 83%, 재산 늘었다… 1년새 평균 3억↑
+********** href : https://www.etoday.co.kr/news/view/2119264
+********** title : 지난해 국회의원 10명 중 8명 재산 증가…윤상현, 227억 늘어 '최다'
+********** href : https://www.khan.co.kr/politics/assembly/article/202203310600041
+********** title : 국회의원 평균 재산 23억…다주택 보유 의원은 41명
+********** href : https://www.dailian.co.kr/news/view/1098413/?sc=Naver
+********** title : 경남 국회의원 16명 중 14명 재산 증가
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1373342
+********** title : 안철수, 글로벌 경제위기 속 미래 먹거리 창출 모색
+********** href : https://www.gukjenews.com/news/articleView.html?idxno=2502701
+********** title : 대한한의사협회 제66회 정기대의원총회, 온라인(비대면)으로 성료
+********** href : http://www.thefirstmedia.net/news/articleView.html?idxno=90906
+********** title : 인수위 코로나특위, 백신 부작용·다양한 치료제 확보방안 논의
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=143821
+********** title : 3개 정당 대선 공약 간호법…내달 법안소위 상정될까
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1146367&ref=naverpc
+********** title : 창원시 내년 국비확보 원팀 선언
+********** href : http://www.breaknews.com/909047
+********** title : 창원시, '특례시 지역현안' 새 정부 국정과제 반영에 사활
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=496475
+***** row : 10
+***** for page : 45
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=441
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 대한한의사협회 제66회 정기대의원총회, 온라인(비대면)으로 성료
+********** href : http://www.thefirstmedia.net/news/articleView.html?idxno=90906
+********** title : 인수위 코로나특위, 백신 부작용·다양한 치료제 확보방안 논의
+********** href : http://www.doctorsnews.co.kr/news/articleView.html?idxno=143821
+********** title : 3개 정당 대선 공약 간호법…내달 법안소위 상정될까
+********** href : https://www.medicaltimes.com/Main/News/NewsView.html?ID=1146367&ref=naverpc
+********** title : 창원시 내년 국비확보 원팀 선언
+********** href : http://www.breaknews.com/909047
+********** title : 창원시, '특례시 지역현안' 새 정부 국정과제 반영에 사활
+********** href : http://www.gnnews.co.kr/news/articleView.html?idxno=496475
+********** title : "정점 전 방역 완화해 확진자 세계 1위" 지적한 인수위 코로나특위, 누가 참여했나
+********** href : https://www.dongascience.com/news/view/53211
+********** title : 임원 1명 구속... 마녀사냥 된 LH 부동산 투기 파문
+********** href : http://www.meconomynews.com/news/articleView.html?idxno=64466
+********** title : 부동산투기 수사 1년만 마무리…국회의원 본인·가족 14명 송치(종합)
+********** href : http://www.newsis.com/view/?id=NISX20220321_0001801034&cID=10201&pID=10200
+********** title : 安 인수위 첫 코로나특위서 “과학 방역, 소상공 보상 해법 찾아라”
+********** href : https://economist.co.kr/2022/03/21/industry/normal/20220321162714269.html
+********** title : '윤석열호' 코로나특위에 오명돈·정기석·최재욱 확정
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=286331&REFERER=NP
+***** row : 10
+***** for page : 46
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=451
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 安 인수위 첫 코로나특위서 “과학 방역, 소상공 보상 해법 찾아라”
+********** href : https://economist.co.kr/2022/03/21/industry/normal/20220321162714269.html
+********** title : LH發 부동산 투기 수사 국회의원 6명 등 4000여명 송치...1506억 보전 조치
+********** href : http://www.newsis.com/view/?id=NISX20220321_0001800994&cID=10201&pID=10200
+********** title : '윤석열호' 코로나특위에 오명돈·정기석·최재욱 확정
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=286331&REFERER=NP
+********** title : 정당 소속 교육감 선거로 정치화 극복?
+********** href : http://www.idomin.com/news/articleView.html?idxno=798300
+********** title : 창원시장 선거, 대선 보수강세 이어지나…민주당 '수성' vs 국힘 '탈환'
+********** href : https://www.news1.kr/articles/?4618059
+********** title : 윤석열 정권을 이끌 핵심 경남 인사는
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=491210
+********** title : 안철수, 글로벌 경제위기 속 미래 먹거리 창출 모색
+********** href : http://www.sisamagazine.co.kr/news/articleView.html?idxno=453012
+********** title : (단독)국민의힘 이주환, 부동산 비리 고발 안진걸 상대 손배소 패소
+********** href : http://www.newstomato.com/ReadNews.aspx?no=1135749&inflow=N
+********** title : [현장+]尹, 지방 돌며 ‘국민 머슴’ 소개…“국민의힘, 오로지 국민들께만 충성”
+********** href : https://www.sedaily.com/NewsView/263ABI3EXB
+********** title : 의료기사 5000명 윤 후보 지지선언
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=490689
+***** row : 10
+***** for page : 47
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=461
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 정당 소속 교육감 선거로 정치화 극복?
+********** href : http://www.idomin.com/news/articleView.html?idxno=798300
+********** title : 창원시장 선거, 대선 보수강세 이어지나…민주당 '수성' vs 국힘 '탈환'
+********** href : https://www.news1.kr/articles/?4618059
+********** title : 윤석열 정권을 이끌 핵심 경남 인사는
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=491210
+********** title : 안철수, 글로벌 경제위기 속 미래 먹거리 창출 모색
+********** href : http://www.sisamagazine.co.kr/news/articleView.html?idxno=453012
+********** title : (단독)국민의힘 이주환, 부동산 비리 고발 안진걸 상대 손배소 패소
+********** href : http://www.newstomato.com/ReadNews.aspx?no=1135749&inflow=N
+********** title : [현장+]尹, 지방 돌며 ‘국민 머슴’ 소개…“국민의힘, 오로지 국민들께만 충성”
+********** href : https://www.sedaily.com/NewsView/263ABI3EXB
+********** title : 의료기사 5000명 윤 후보 지지선언
+********** href : http://www.gnmaeil.com/news/articleView.html?idxno=490689
+********** title : 서울성모병원 연구팀, 고령 급성골수성백혈병 환자 항암화학요법 후 예후 예측지표 개발 外
+********** href : http://www.newsmp.com/news/articleView.html?idxno=221704
+********** title : 서울의사 533명 윤석열 지지 "과학적 보건의료정책으로 위기 극복"
+********** href : http://www.doctorstimes.com/news/articleView.html?idxno=217947
+********** title : 경남 의사에 이어 '충청의사 50명'도 윤석열 후보 지지
+********** href : http://www.doctorstimes.com/news/articleView.html?idxno=217917
+***** row : 10
+***** for page : 48
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=471
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 경남 의사에 이어 '충청의사 50명'도 윤석열 후보 지지
+********** href : http://www.doctorstimes.com/news/articleView.html?idxno=217917
+********** title : 간호조무사 6,000명 윤석열 지지선언
+********** href : http://www.dentalnews.or.kr/news/article.html?no=32843
+********** title : [대선D-10] 대전시의사협회 소속 의사 50여명 "윤석열 지지"...보건의료공제회 설립지원 등 요청
+********** href : http://www.jeonmae.co.kr/news/articleView.html?idxno=875293
+********** title : 발언 경청하는 권성동 원내대표
+********** href : https://www.news1.kr/photos/view/?5459716
+********** title : 경남 간호조무사 5천명, 윤석열 후보 지지 선언
+********** href : http://www.bokuennews.com/news/article.html?no=213641
+********** title : 경남 간호조무사 5000명 "윤석열 후보 지지" 선언
+********** href : http://www.dailymedi.com/detail.php?number=880841&thread=22r10
+********** title : 한약사단체·한약업 종사자 1001명, 윤석열 지지선언
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=285549&REFERER=NP
+********** title : 서울시 간호사 2,823명, 윤석열 대통령 후보지지 선언
+********** href : https://www.medipana.com/article/view.php?news_idx=293094&sch_cate=M
+********** title : 한약사, 한약관련업종사자 1001명 윤석열 후보지지 선언
+********** href : http://www.mjmedi.com/news/articleView.html?idxno=54236
+********** title : [포토] '서울시 간호사 2,823명' 윤석열 후보 지지선언
+********** href : https://www.newdaily.co.kr/site/data/html/2022/02/21/2022022100119.html
+***** row : 10
+***** for page : 49
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=481
+********** status_code : 200
+********** len(tagA) : 10
+********** title : 한약사단체·한약업 종사자 1001명, 윤석열 지지선언
+********** href : http://www.dailypharm.com/Users/News/NewsView.html?ID=285549&REFERER=NP
+********** title : 서울시 간호사 2,823명, 윤석열 대통령 후보지지 선언
+********** href : https://www.medipana.com/article/view.php?news_idx=293094&sch_cate=M
+********** title : 한약사, 한약관련업종사자 1001명 윤석열 후보지지 선언
+********** href : http://www.mjmedi.com/news/articleView.html?idxno=54236
+********** title : [포토] '서울시 간호사 2,823명' 윤석열 후보 지지선언
+********** href : https://www.newdaily.co.kr/site/data/html/2022/02/21/2022022100119.html
+********** title : 대구·경북의사회, 국민의힘과 의료정책간담회 개최
+********** href : https://www.medipana.com/article/view.php?news_idx=293028&sch_cate=E
+********** title : [포토] 국민의힘 원내대책회의
+********** href : http://news.mk.co.kr/newsRead.php?no=589944&year=2022
+********** title : 창원시 8개 기관-지역 국회의원, 내년 국비확보 원팀 선언
+********** href : http://www.newsgn.com/332071
+********** title : 12일 안철수 '민·당·정 토론회' 개최…첫 주제는 '글로벌 경제위기'
+********** href : https://www.sisa-news.com/news/article.html?no=204506
+********** title : 거대 야당 잇단 '강공'…간호법·의사면허법 '촉각'
+********** href : https://www.dailymedi.com/news/news_view.php?wr_id=886239
+********** title : UnicodeEncodeError
+********** href : http://www.sisaon.co.kr/news/articleView.html?idxno=140802
+***** row : 10
+***** for page : 50
+***** url : https://search.naver.com/search.naver?where=news&sm=tab_jum&query=강기윤&start=491
+********** status_code : 200
+********** len(tagA) : 10
+********** title : UnicodeEncodeError
+********** href : http://www.sisaon.co.kr/news/articleView.html?idxno=140802
+********** title : [이기자의 메디컬나우] "나경원에서 정기석까지"···혼란의 1주일
+********** href : http://www.sisajournal-e.com/news/articleView.html?idxno=280474
+********** title : 발언 듣는 권성동 국민의힘 원내대표
+********** href : http://www.newsis.com/view/?id=NISI20220705_0018992113
+********** title : 국회 계류법안 1만여건… 눈에 띄는 경남 법안은
+********** href : http://www.knnews.co.kr/news/articleView.php?idxno=1380693
+********** title : 발언 경청하는 권성동 원내대표
+********** href : http://www.newspim.com/news/view/20220705000167
+********** title : 국힘, 민주당에 상임위 배분 양보 촉구…사개특위 구성은 협상 '불가'
+********** href : https://www.sisa-news.com/news/article.html?no=204381
+********** title : 경남지도자회의, 6·1 지선 당선인 축하연 개최
+********** href : http://www.busan.com/view/busan/view.php?code=2022062509594187628
+********** title : "약자판기 철회하라" 경남 2300 약사 들고 일어섰다
+********** href : https://www.kpanews.co.kr/article/show.asp?idx=234343&category=A
+********** title : [종합] 당정대, 尹정부 경제정책 '규제 혁파' 한목소리...법인세·유류세 인하
+********** href : http://www.newspim.com/news/view/20220615000418
+********** title : 여야 원 구성 지연에 국회 공백… 법사위원장 쟁탈전
+********** href : https://www.womaneconomy.co.kr/news/articleView.html?idxno=211944
+***** row : 10
