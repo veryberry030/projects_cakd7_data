@@ -6,6 +6,7 @@
 
 사용 예시)
 # 읽을때
+import pickle
 with open('MP_news_data_숫자.pkl', 'rb') as fr: 
     MPdict_r = pickle.load(fr)
 
