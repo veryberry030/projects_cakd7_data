@@ -5,6 +5,18 @@
 값value: MPdata 객체 (제가 정의한 클래스MPdata의 객체 입니다.)
 
 사용 예시)
+# 아래 클래스 정의를 코드에 포함하여 같이 실행해주세요. 
+# 추후에 .py로 만들고 import해서 사용할 수 있는 방법을 찾아볼께요. ㅜ.ㅜ
+class MPdata:
+    def __init__(self, name):
+        self.name = name
+    def save_org(self, df_org):
+        self.df_org = df_org
+    def save_r1(self, df_r1):
+        self.df_r1 = df_r1
+        self.len = df_r1.count().max()
+    def save_text(self, text):
+        self.text = text
 # 읽을때
 import pickle
 with open('MP_news_data_숫자.pkl', 'rb') as fr: 
