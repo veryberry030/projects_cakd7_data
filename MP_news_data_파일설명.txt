@@ -1,0 +1,26 @@
+해당 피클 .pkl 파일을 읽으시면 딕셔너리 형의 데이터를 얻을 수 있습니다.
+딕셔너리 각 아이템의 구성은 아래와 같습니다.
+
+키key: 국회의원이름(str 타입)
+값value: MPdata 객체 (제가 정의한 클래스MPdata의 객체 입니다.)
+
+사용 예시)
+# 읽을때
+with open('MP_news_data_숫자.pkl', 'rb') as fr: 
+    MPdict_r = pickle.load(fr)
+
+MPdict['강기윤'].name
+# 이름, str
+
+MPdict_r['강기윤'].df_org
+# 크롤링한 raw 데이터, pandas.DataFrame
+
+MPdict_r['강기윤'].df_r1
+# 1차 전처리 한 데이터, pandas.DataFrame
+
+MPdict_r['강기윤'].len
+# 1차 전처리한 데이터 행의 갯수 (기사의 갯수), numpy.int64
+
+MPdict_r['강기윤'].text
+# 2차 전처리한 데이터 (모든 한글을 하나로 합친 것), str
+
